@@ -174,8 +174,6 @@ his or her beliefs, ideas and opinions without fear of retaliation,
 censorship or legal sanction by government.
 
 
-
-
 Finally, having thus set forth our foundational principles and values, 
 we invite all Wyoming citizens, who substantially agree with us, to 
 offer their affirmation and support.
@@ -184,4 +182,4 @@ offer their affirmation and support.
 Passed:
 Wyoming Republican Party State Convention, 22 May 7
 
-$${\color{red}*Inputs adopted March 2, 2024 at the Sheridan Wyoming Republican Party County Convention.*}$$
+$\color{red}{Inputs \space adopted \space March \space 2, \space 2024 \space at \space the \space Sheridan \space Wyoming \space Republican \space Party \space County \space Convention.}$
