@@ -9,7 +9,7 @@ our party and our country regardless of current events and
 circumstances, changing strategies, goals, and leadership. 
 These Truths, put into action, maintain, protect, and defend our 
 unalienable rights to Life, Liberty, Property and the Pursuit of 
-Happiness.*[1](1.md)
+Happiness.*[a](a.md)
 
 **Life**
 
