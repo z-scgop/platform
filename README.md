@@ -1,3 +1,6 @@
+[a.md]
+
+
 # Platform of the Wyoming Republican Party
 
 WE 
