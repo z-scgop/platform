@@ -184,6 +184,4 @@ offer their affirmation and support.
 Passed:
 Wyoming Republican Party State Convention, 22 May 7
 
-
-<span style="color:red">*Inputs adopted March 2, 2024 at the Sheridan 
-Wyoming Republican Party County Convention.*</span>
+$${\color{red}*Inputs adopted March 2, 2024 at the Sheridan Wyoming Republican Party County Convention.*}$$
