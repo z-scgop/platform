@@ -10,6 +10,7 @@ Happiness.*
 
 
 **Life**
+
 1. All individuals are endowed by their Creator from the moment of 
 conception to the moment of natural death with the rights to Life, 
 Liberty, Property, and the Pursuit of Happiness. The only purpose of 
@@ -17,16 +18,19 @@ government is to protect these rights for all.
 
 
 **Equality**
+
 2. Every citizen is equal before, equally protected by, and equally 
 subject to, the law.
 
 
 **Second Amendment**
+
 3. The right of individuals to keep and bear Arms and ammunition shall 
 not be infringed, restricted, or denied. Individuals must never be 
 prevented from defending life, liberty, or property.
 
 **Private Property Rights**
+
 4. The pursuit by ~~an~~individual~~s~~ to rightfully acquire, keep and enjoy 
 theirown property is foundational. Allindividuals have the right to 
 develop their own potential, to use and enjoy their own property, 
@@ -41,6 +45,7 @@ amortization or inverse condemnation.
 
 
 **Religious Freedom**
+
 6. The freedom to practice one’s faith is a God given fundamental 
 natural right, secured by both the Constitution of the United States 
 and the Wyoming Constitution and shall never be infringed. The First 
@@ -56,6 +61,7 @@ to abstain from actions contrary to one’s religious beliefs.
 
 
 **Family Values**
+
 7. The Wyoming Republican Party believes in God’s created order: that 
 in His perfect design He created two sexes, male and female.
 
@@ -83,6 +89,7 @@ right to the fruits of another person’s labor.
 mandated under any circumstances.
 
 **Citizenry Government by the Constitution**
+
 12. The citizens of the United States are the ultimate sovereign 
 authority. Governments possess just powers derived only from the consent 
 of the governed.
@@ -111,6 +118,7 @@ Republican Party opposes any federal takeover or interference of
 federal, state, or local elections.
 
 **American Exceptionalism and Sovereignty**
+
 16. The United States must maintain and defend its national sovereignty 
 free from foreign and domestic influences that would infringe on the 
 rights of the American People guaranteed by the Constitution. Foreign 
@@ -119,6 +127,7 @@ immigration must be responsible and limited.
 
 
 **Military**
+
 17. It is imperative on the federal government to maintain a strong 
 military defense for the protection of our people, our interests, and 
 our way of life. Those who serve our country honorably deserve our 
@@ -126,6 +135,7 @@ deepest gratitude, highest respect and unwavering support.
 
 
 **Taxes**
+
 18. All taxes collected must be used for the constitutional purposes of 
 government. It is irresponsible to run up debts that are passed on to 
 our children and grandchildren. Taxes should never be more than 
@@ -146,6 +156,7 @@ role of faith and biblical principles in the founding of our nation.
 
 
 **Water and Land Rights**
+
 21. The Wyoming Republican Party believes in the state’s primacy over 
 water, wildlife, minerals, and natural resources, and the lands within 
 Wyoming that were conveyed to the state by the U.S. Congress in the 
@@ -156,17 +167,20 @@ resources.
 
 
 **Right to Work**
+
 22. The Wyoming Republican Party opposes the unionization of public 
 employees and supports the Right to Work Law.
 
 
 **Civic Duty**
+
 23. Our liberty and the continued success of our republican form of 
 federal government demands continuous vigilance by “We the People of 
 the United States and the sovereign citizens of Wyoming.”
 
 
 **Free Speech**
+
 24. Freedom of speech is a fundamental right secured by the United 
 States Constitution and the Constitution of the State of Wyoming. 
 Freedom of speech includes the freedom of the individual to express 
