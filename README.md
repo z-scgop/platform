@@ -31,9 +31,11 @@ subject to, the law.
 not be infringed, restricted, or denied. Individuals must never be 
 prevented from defending life, liberty, or property.
 
-**Private Property Rights**
+<code>**Private Property Rights**</code>
 
-4. The pursuit by ~~an~~individual~~s~~ to rightfully acquire, keep and enjoy 
+4. The pursuit by
+~~an~~individual~~s~~
+to rightfully acquire, keep and enjoy 
 theirown property is foundational. Allindividuals have the right to 
 develop their own potential, to use and enjoy their own property, 
 tangible or intellectual, and pursue their own interests, free from 
@@ -41,7 +43,7 @@ restrictions of arbitrary force. Individuals are always presumed to be
 the best stewards of their property.
 
 
-5. The Wyoming Republican Party supports the protection of private 
+6. The Wyoming Republican Party supports the protection of private 
 property from the use of eminent domain, civil asset forfeiture, 
 amortization or inverse condemnation.
 
